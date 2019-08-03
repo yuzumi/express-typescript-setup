@@ -1,0 +1,25 @@
+{
+  "name": "express-typescript-setup",
+  "version": "1.0.0",
+  "description": "Setup a Node/Express/TypeScript environment with TS-Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzumi/express-typescript-setup.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "typescript",
+    "ts-node"
+  ],
+  "author": "Bogdan Morozyuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuzumi/express-typescript-setup/issues"
+  },
+  "homepage": "https://github.com/yuzumi/express-typescript-setup#readme"
+}
